@@ -1,0 +1,70 @@
+.container-fluid   
+{
+    background-color:lightgrey;
+}
+
+nav
+{
+    height: 150px;
+    position: relative;
+}
+
+#navLogo
+{
+    height: 80px;
+    background-color: black;
+    top: 20%;
+}
+
+#navItems
+{
+    top: 40%;
+}
+
+.navOption
+{
+    height: 25px;
+    background-color: black;
+}
+
+.jumbo
+{
+    height: 500px;
+    background-color: black;
+}
+
+aside 
+{
+    height: 150px;
+    position: relative;
+}
+
+.subTitle
+{
+    height: 30px;
+    background-color:black;
+    top:50%;
+}
+
+.triSection
+{
+    height: 200px;
+    position: relative;
+}
+
+.bodyEle1
+{
+    height: 150px;
+    background-color: black;
+    top:20%;
+}
+.bodyEle2
+{
+    top:20%;
+}
+
+.bodyEle2_1
+{
+    height: 150px;
+    background-color: black;
+}
